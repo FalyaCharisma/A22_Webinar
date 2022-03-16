@@ -40,6 +40,7 @@
 @media all and (max-width: 670px) {
   header{
     height: 50px;
+    display: block;
   }
   .header-list {
     display: none;
