@@ -83,8 +83,11 @@
 .facebook {
     margin-top: 10px;
 }
-.login{
-  padding: 10px 50px;
+.login {
+    background-color: beige;
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
 }
   .lesson {
     width: 100%;
