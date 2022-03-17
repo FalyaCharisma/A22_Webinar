@@ -84,7 +84,7 @@
     margin-top: 10px;
 }
 .login{
-  width: 100%;
+  display: inline-block;
 }
   .lesson {
     width: 100%;
